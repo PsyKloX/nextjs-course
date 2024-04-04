@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-04T22:10:33.645Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="_ouJHg54I6r47O-ZfOEg" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-04T22:56:24.215Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="rCq8zlRc7E7hYfNtwP2y" version="24.2.2" type="github">
   <diagram name="Página-1" id="n3o9mjKdTbcDdczt1gTQ">
     <mxGraphModel dx="1042" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -145,20 +145,20 @@
         <mxCell id="eBC_fEb5Lc7JfWc4EQMm-43" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;Diseño organizacional:&lt;br&gt;Componentes.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="299" y="720" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2IZoNkK_qG3YMHS8xNJz-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="790" width="120" height="60" as="geometry" />
+        <mxCell id="2IZoNkK_qG3YMHS8xNJz-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;RR.HH:&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Capital humano, debemos ubicarlos donde mejor se desempeñan.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Para esto debemos medir el desempeño, evaluar roles y conocer los niveles de satisfacción.&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="790" width="120" height="180" as="geometry" />
         </mxCell>
         <mxCell id="2IZoNkK_qG3YMHS8xNJz-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Estrategia:&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Es lo que identifica el rumbo que busca la organización. Está relacionada con la visión, misión, cultura, etc.&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="850" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="2IZoNkK_qG3YMHS8xNJz-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="830" width="120" height="60" as="geometry" />
+        <mxCell id="2IZoNkK_qG3YMHS8xNJz-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Procesos:&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Actividades que se ejecutan en pos del logro de un elemento de valor para el destinatario.&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="830" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="2IZoNkK_qG3YMHS8xNJz-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Tecnologías:&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Herramientas que permiten transformar la materia prima en producto.&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="830" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="2IZoNkK_qG3YMHS8xNJz-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="790" width="120" height="60" as="geometry" />
+        <mxCell id="2IZoNkK_qG3YMHS8xNJz-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Estructura&lt;/font&gt;&lt;/b&gt;:&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Las organizaciones utilizan los organigramas para representar su estructura graficamente. Los tipos de estructura son: Formal, Presunta o Informal, Existente, Requerida.&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="790" width="120" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
