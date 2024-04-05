@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-05T15:40:39.801Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="JCh1qiqhlwHhngjQEmY2" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-05T15:51:36.977Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="di-NzwNkYGTJifXT126W" version="24.2.2" type="github">
   <diagram name="Página-1" id="n3o9mjKdTbcDdczt1gTQ">
     <mxGraphModel dx="868" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,7 +104,7 @@
         </mxCell>
         <mxCell id="pHe-UEccqfyWGeA5yOUw-94" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="pHe-UEccqfyWGeA5yOUw-92">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="800" y="830" as="sourcePoint" />
+            <mxPoint x="800" y="880" as="sourcePoint" />
             <mxPoint x="760" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -120,8 +120,65 @@
         <mxCell id="pHe-UEccqfyWGeA5yOUw-98" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Estabilidad y Adaptabilidad:&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Se debe dar al colaborador estabilidad sobre su lugar y tarea, pero no rigidez, ya que la estructura debe adaptarse a las exigencias para sobrevivir.&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="780" width="720" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pHe-UEccqfyWGeA5yOUw-99" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="860" width="720" height="60" as="geometry" />
+        <mxCell id="pHe-UEccqfyWGeA5yOUw-99" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Autorrenovación:&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Se deben promover nuevas ideas, la estructura debe promover y fomentar el crecimiento y acceso a nuevos cargos.&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="860" width="720" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pHe-UEccqfyWGeA5yOUw-100" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pHe-UEccqfyWGeA5yOUw-95">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="610" as="sourcePoint" />
+            <mxPoint x="810" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pHe-UEccqfyWGeA5yOUw-101" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pHe-UEccqfyWGeA5yOUw-96">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="680" as="sourcePoint" />
+            <mxPoint x="790" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pHe-UEccqfyWGeA5yOUw-102" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pHe-UEccqfyWGeA5yOUw-97">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="740" as="sourcePoint" />
+            <mxPoint x="750" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pHe-UEccqfyWGeA5yOUw-103" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pHe-UEccqfyWGeA5yOUw-98">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="810" as="sourcePoint" />
+            <mxPoint x="750" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pHe-UEccqfyWGeA5yOUw-104" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pHe-UEccqfyWGeA5yOUw-99">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="880" as="sourcePoint" />
+            <mxPoint x="810" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pHe-UEccqfyWGeA5yOUw-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pHe-UEccqfyWGeA5yOUw-105" target="pHe-UEccqfyWGeA5yOUw-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pHe-UEccqfyWGeA5yOUw-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pHe-UEccqfyWGeA5yOUw-105" target="pHe-UEccqfyWGeA5yOUw-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pHe-UEccqfyWGeA5yOUw-105" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Estructuras Organizacionales&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="244" y="920" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pHe-UEccqfyWGeA5yOUw-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pHe-UEccqfyWGeA5yOUw-106" target="pHe-UEccqfyWGeA5yOUw-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pHe-UEccqfyWGeA5yOUw-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pHe-UEccqfyWGeA5yOUw-106" target="pHe-UEccqfyWGeA5yOUw-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pHe-UEccqfyWGeA5yOUw-106" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Organización Formal:&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="920" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pHe-UEccqfyWGeA5yOUw-107" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Organización Informal:&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="628" y="920" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pHe-UEccqfyWGeA5yOUw-114" value="Significa que las tareas que realizan dos o más empleados &lt;br&gt;están orientadas a la consecución de los objetivos organizacionales.&lt;div&gt;PRINCIPIO DE OBJETIVO: Efectividad de la Estructura.&lt;/div&gt;&lt;div&gt;PRINCIPIO DE EFICIENCIA: Se aprovechan los recursos de la mejor manera posible.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="960" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pHe-UEccqfyWGeA5yOUw-117" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="960" width="370" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
