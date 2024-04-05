@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-05T15:51:36.977Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="di-NzwNkYGTJifXT126W" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-05T15:54:03.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="yzxHcdXQrjtIMM4M_KZA" version="24.2.2" type="github">
   <diagram name="Página-1" id="n3o9mjKdTbcDdczt1gTQ">
-    <mxGraphModel dx="868" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="595" dy="325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -177,8 +177,18 @@
         <mxCell id="pHe-UEccqfyWGeA5yOUw-114" value="Significa que las tareas que realizan dos o más empleados &lt;br&gt;están orientadas a la consecución de los objetivos organizacionales.&lt;div&gt;PRINCIPIO DE OBJETIVO: Efectividad de la Estructura.&lt;/div&gt;&lt;div&gt;PRINCIPIO DE EFICIENCIA: Se aprovechan los recursos de la mejor manera posible.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="960" width="370" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pHe-UEccqfyWGeA5yOUw-117" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pHe-UEccqfyWGeA5yOUw-117" value="&lt;br&gt;Surgen como resultado de la organización formal + el &lt;br&gt;compañerismo y los grupos informales+ el liderazgo sin tener en cuenta su jerarquía&amp;nbsp;formal + satisfacer las necesidades de las personas y cubrir sus necesidades de obtener información.&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="960" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pHe-UEccqfyWGeA5yOUw-121" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pHe-UEccqfyWGeA5yOUw-117">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="940" as="sourcePoint" />
+            <mxPoint x="790" y="980" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="940" />
+              <mxPoint x="820" y="1000" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
